@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@vue/cli": "^3.3.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "echarts": "^4.1.0",
     "element-ui": "^2.4.5",
     "node-sass": "^4.11.0",
